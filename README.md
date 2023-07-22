@@ -7,7 +7,7 @@ There are two classifiers included here:
 - GPTClassifier
 - LogisticClassifier
 
-
+This is a part of the Wearipedia project. Huge thanks to the Wearipedia team for supporting this project.
 
 ## 1. GPTClassifier
 - The GPTClassifier is powered by GPT-3.5.
